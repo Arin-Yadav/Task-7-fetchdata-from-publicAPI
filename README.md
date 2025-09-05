@@ -15,4 +15,8 @@ A simple web application built with **Vanilla JavaScript**, **HTML**, and **CSS*
 - **JavaScript (ES6+)** – Fetch API and DOM manipulation
 - **VS Code** – Development environment
 - **Chrome Browser** – Testing and debugging
-- 
+
+# How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arin-Yadav/task-7-fetch-api.git
